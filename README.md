@@ -1,0 +1,1 @@
+This script creates a simple VR game where the player moves toward the target object ('target') at a constant speed ('speed') and rotates to face the target at a constant rate ('rotation speed'). You can attach this script to the player GameObject in your Unity scene. Make sure to set the 'target' variable to the GameObject you want the player to move towards. 
